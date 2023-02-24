@@ -1,4 +1,4 @@
-def sezar_sifrele(metin, anahtar=3):
+def sezar_sifre(metin, anahtar=3):
     alfabe = 'abcçdefgğhıijklmnoöprsştuüvyz'
     sifreli_metin = ''
     for harf in metin:
