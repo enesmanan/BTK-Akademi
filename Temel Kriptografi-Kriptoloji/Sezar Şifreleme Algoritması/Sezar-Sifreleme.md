@@ -23,5 +23,7 @@ Esasen avantaj olarak saydığımız şeyler bakış açısına göre dezavantaj
 ### Sezar Şifrelemesini Kırmak
 Basit bir şifreleme yöntemi olduğu için kırması da oldukça kolaydır. En başlıca yöntemlere bakalım:
 <b>1.Kaba kuvvet: </b> Kaba kuvvet (brute-force) yaklaşımı ile kolaylıkla kırılabilir. Türk alfabesini baz aldığımızdan dolayı anahtar uzayımız 29'dur. En fazla 28 defa ileri alındığında mesaj ortaya çıkacaktır, 29. sefere gelindiğinde ise şifrelenmiş mesaja tekrar ulaşılacaktır. Günümüz biligisayarları ile çok kısa sürelerde mesaj deşifre olabilir.
+
 <b>2.Frekans Analizi:</b> Frekans analizi ile en çok geçen harfler tespit edilir. Algoritma öteleme ile çalıştığı için şifresiz metinlerdeki en çok geçen harflere karşılık gelen şifreli metindeki harfler frekans tablosundan tahmin edilerek anahtar bulunabilir.
-<b>3.Bilinen açık metin: </b> Şifrelenmeden önce şifrelenecek metnin bir kısmı biliniyorsa (mesela, bir şifreli mesajın ilk kelimesi açık olarak biliniyorsa), bu bilgi kullanılarak metni deşifre etmek daha kolay hale gelir.
+
+<b>3.Bilinen açık metin:</b> Şifrelenmeden önce şifrelenecek metnin bir kısmı biliniyorsa (mesela, bir şifreli mesajın ilk kelimesi açık olarak biliniyorsa), bu bilgi kullanılarak metni deşifre etmek daha kolay hale gelir.
