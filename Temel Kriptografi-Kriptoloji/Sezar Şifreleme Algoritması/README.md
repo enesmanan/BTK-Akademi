@@ -1,5 +1,5 @@
 # Sezar Şifrelemesi
-Adını ünlü Roma İmporatoru Julius Sezar'dan almış basit bir şifreleme algoritmasıdır. Algoritma her harfin belilrlenen adım sayısı (anahtar) kadar ötelenmesine dayanır. Şifreyi çözmek için mesajın yazıldığı dilin alfabesine göre öteleme işlemi yapılmalıdır, aksi taktirde mesaj bulunulamayabilir. Bu yazıdaki örnekler Türk alfabesini baz alarak hazırlanmıştır.
+Adını ünlü Roma İmporatoru Julius Sezar'dan almış basit bir şifreleme algoritmasıdır. Algoritma her harfin belilrlenen adım sayısı (anahtar) kadar ötelenmesine dayanır. Şifreyi çözmek için mesajın yazıldığı dilin alfabesine göre öteleme işlemi yapılmalıdır, aksi taktirde mesaj bulunulamayabilir. Bu repodaki örnekler Türk alfabesini baz alarak hazırlanmıştır.
 ### Tarihçe
 Julius Sezar, MÖ 1. yüzyılda askeri mesajlarının güvenliğini sağlamak için bu yöntemi kullanmıştır. Bilinen en eski şifreleme yöntemlerinden biridir. Kolay bir şifreleme yöntemi olduğu için farklı anahtarlar ile tarih boyunca kullanılmıştır. 
 ### Uygulanışı
