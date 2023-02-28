@@ -1,5 +1,5 @@
 def yerine_koyma_sifre(acik_metin):
-    alfabe = 'abcçdefgğhıijklmnoöprsştuüvyz'
+    alfabe =  'abcçdefgğhıijklmnoöprsştuüvyz'
     anahtar = 'müfıvejihpğaodyrubşgzcötsçlnk'
     yerine_koy = {}
     for i in range(len(alfabe)):
