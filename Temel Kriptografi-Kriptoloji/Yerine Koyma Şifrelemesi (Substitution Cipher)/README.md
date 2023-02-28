@@ -6,6 +6,7 @@ Adından da anlaşılacağı üzere alfabedeki her bir karakterin yerine, alfabe
 
 <b>Anahtar:</b>
 <b>`abcçdefgğhıijklmnoöprsştuüvyz`</b>
+
 <b>`müfıvejihpğaodyrubşgzcötsçlnk`</b>
 
 Örnek bir uygulama olarak "Enes Fehmi" kelimelerini şifreleyelim:
