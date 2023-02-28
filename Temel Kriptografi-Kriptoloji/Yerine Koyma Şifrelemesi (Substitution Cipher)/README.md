@@ -5,6 +5,7 @@ Adından da anlaşılacağı üzere alfabedeki her bir karakterin yerine, alfabe
 Şifrelenecek metin ve anahtar belirlenir. Anahtar belirlemekte belirli bir kural olmadığı için bizde kafamıza göre bir anahtar oluşturalım.
 
 <b>Anahtar:</b>
+
 <b>`abcçdefgğhıijklmnoöprsştuüvyz`</b>
 
 <b>`müfıvejihpğaodyrubşgzcötsçlnk`</b>
