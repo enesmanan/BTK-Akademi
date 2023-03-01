@@ -11,7 +11,8 @@ Adından da anlaşılacağı üzere alfabedeki her bir karakterin yerine, alfabe
 <b>`müfıvejihpğaodyrubşgzcötsçlnk`</b>
 
 Örnek bir uygulama olarak "Enes Fehmi" kelimelerini şifreleyelim:
-<b>Enes → Euec Jepra </b>
+
+<b>Enes Fehmi → Euec Jepra </b>
 
 Şifreleyeceğimiz metindeki karakterin karşısındaki karakteri anahtarımızdan bulduk ve yerine koyarak şifreledik.
 
