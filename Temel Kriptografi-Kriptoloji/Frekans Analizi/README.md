@@ -41,3 +41,4 @@ Siz farklı anahtarlar ile şifreyi çözmeye çalışabilirsiniz veya kodu modi
 
 Silinmeden önce sayfadan aldığım veriyle aşağıdaki sutun grafiğini oluşturmuştum.
 
+![frekans](https://user-images.githubusercontent.com/88631980/227637592-67fb1ec1-50a0-4b73-b759-a245afd722e8.png)
