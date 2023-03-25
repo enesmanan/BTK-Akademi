@@ -25,7 +25,7 @@ Burada yaptığım hata sirali_frekans listesinin Türkçe dilinde yazılmış h
 
 Türkçe dilindeki en yüksek frekansa sahip harflerin listesini yani sirali_frekans listesini [buradaki](https://tr.wikipedia.org/wiki/T%C3%BCrk_alfabesindeki_harflerin_kullan%C4%B1m_s%C4%B1kl%C4%B1klar%C4%B1) Wkipedia sayfasından edinmiştim ve bu istatistiğin doğru olduğunu düşündüm yani Wkipedia'ya güvendim.
 
-Bir istatistik öğrencisi olarak büyük bir hata yaptım. Örneklemin içeriğine (büyüklük, kullanılan materyaller vb.) bakmadan istatistiğin, kitleyi yani Türkçe dilinde yazılmış bütün metinleri aynı sonuçla tahmin edebileceğini düşündüm. 
+Bir istatistik öğrencisi olarak hatalı bir düşünce yapısı içerisine girdim. Örneklemin içeriğine (büyüklük, kullanılan materyaller vb.) bakmadan istatistiğin, kitleyi yani Türkçe dilinde yazılmış bütün metinleri aynı sonuçla tahmin edebileceğini düşündüm. 
 
 Şu anda [buradan](https://tr.wikipedia.org/wiki/T%C3%BCrk_alfabesindeki_harflerin_kullan%C4%B1m_s%C4%B1kl%C4%B1klar%C4%B1) Wkiepedia sayfasına gittiğimizde sayfanın silindiğini görüyoruz. Silinme sebebine [buradan](https://tr.wikipedia.org/wiki/Vikipedi:Silinmeye_aday_sayfalar/T%C3%BCrk_alfabesindeki_harflerin_kullan%C4%B1m_s%C4%B1kl%C4%B1klar%C4%B1) baktığımızda "Nedim Gayet Bir" isimli kullanıcı istatistiğin kitleyi neden tahminleyemediğini çok güzel açıklamış "Evet, birkaç köşe yazısı ile 37 roman kullanılarak böyle bir istatistik elde edilmiş olabilir. Ancak bu rakamlar, çok spesifik bir kriptoloji araştırması neticesinde elde edilmiş kapsamı çok sınırlı veriler. Lakin söz konusu istatistiği 'Türk alfebesindeki harflerin kullanım sıklığı' şeklinde, genelgeçer bir sayı gibi sunamayız, çünkü böyle bir sayıyı ifade etmiyor. Misal, bu istatistik 1800'lü yıllarda kullanılan Türkçe için de geçerli mi? Elbette, değil."
 
@@ -39,6 +39,6 @@ Siz farklı anahtarlar ile şifreyi çözmeye çalışabilirsiniz veya kodu modi
 
 ## Görselleştirme
 
-Silinmeden önce sayfadan aldığım veriyle aşağıdaki sutun grafiğini oluşturmuştum.
+Silinmeden önce sayfadan aldığım veriyi sutun grafiği ile görselleştirmiştim, kabaca bir fikir vermesi açısından görseli de paylaşıyorum.
 
 ![frekans](https://user-images.githubusercontent.com/88631980/227637592-67fb1ec1-50a0-4b73-b759-a245afd722e8.png)
