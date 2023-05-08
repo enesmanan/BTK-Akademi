@@ -87,7 +87,7 @@ Bu klasörde, eğitimde analiz edilen verininin daha detaylı ve farklı teknikl
 
 <hr style="border: 0.5px solid gray; margin: 25px 0;">
 
-# Soft Skiller
+# Soft Skills
 
 ## :point_right: Mülakat Teknikleri
 
