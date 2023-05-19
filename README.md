@@ -30,6 +30,11 @@ Bu klasörde, eğitimde analiz edilen verininin daha detaylı ve farklı teknikl
 + :page_facing_up: [Eğitim sayfası](https://www.btkakademi.gov.tr/portal/course/dogal-dil-islemeye-giris-11864)
 + :mortar_board: [Sertifika](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=EoPfbLxyg6)
 
+## :point_right: Keras İle Derin Öğrenmeye Giriş
+
++ :page_facing_up: [Eğitim sayfası](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-ogrenmeye-giris-10599)
++ :mortar_board: [Sertifika](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=AJaSdZXxVo)
+
 ## :point_right: Veri Modelleme
 
 + :page_facing_up: [Eğitim sayfası](https://www.btkakademi.gov.tr/portal/course/veri-modelleme-16515)
