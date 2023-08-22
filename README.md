@@ -87,7 +87,7 @@ Bu klasörde, eğitimde analiz edilen verininin daha detaylı ve farklı teknikl
 
 ## :point_right: İşletim Sistemlerine Giriş
 
-+ :page_facing_up: [Eğitim sayfası](https://www.btkakademi.gov.tr/portal/course/agile-cevik-metodolojiler-ve-scrum-egitimi-1404)
++ :page_facing_up: [Eğitim sayfası](https://www.btkakademi.gov.tr/portal/course/isletim-sistemlerine-giris-17624)
 + :mortar_board: [Sertifika](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=6mqFNWbYYB)
 
 <hr style="border: 0.5px solid gray; margin: 25px 0;">
@@ -96,7 +96,7 @@ Bu klasörde, eğitimde analiz edilen verininin daha detaylı ve farklı teknikl
 
 ## :point_right: Agile (ÇEVİK) Metodolojiler ve SCRUM Eğitimi
 
-+ :page_facing_up: [Eğitim sayfası](https://www.btkakademi.gov.tr/portal/course/mulakat-teknikleri-17519)
++ :page_facing_up: [Eğitim sayfası](https://www.btkakademi.gov.tr/portal/course/agile-cevik-metodolojiler-ve-scrum-egitimi-1404)
 + :mortar_board: Sertifika verilmiyor.
 
 ## :point_right: Mülakat Teknikleri
