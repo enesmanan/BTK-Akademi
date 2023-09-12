@@ -2,6 +2,12 @@
 
 :diamond_shape_with_a_dot_inside:	 Bu repo, BTK Akademi eğitim platformundan almış olduğum eğitimlerden üretmiş olduğum projeleri içerir.
 
+## :point_right: [Datathon2023](https://github.com/enesmanan/BTK-Akademi/tree/main/Datathon2023)
+Bu klasörde, yarışma için geliştirdiğim çözüm ve veri setleri bulunur.
++ :page_facing_up: [Yarışma sayfası](https://www.kaggle.com/competitions/datathon2023/overview)
+
+
+
 ## :point_right: [Python ile Makine Öğrenmesi](https://github.com/enesmanan/BTK-Akademi/tree/main/Python%20ile%20Makine%20%C3%96%C4%9Frenmesi)
 Bu klasörde, eğitimde verilen ödevlerin ayrıntılı olarak çözümleri bulunur.
 + :page_facing_up: [Eğitim sayfası](https://www.btkakademi.gov.tr/portal/course/python-ile-makine-ogrenmesi-11800)
